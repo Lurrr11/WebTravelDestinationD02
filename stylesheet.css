@@ -1,0 +1,151 @@
+// jangan dihapus code ini, ini css reset
+html, body, ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+
+body {
+  
+}
+
+.container {
+  width: 100%;
+  
+}
+header {
+  height: 65px;
+  width: cover;
+  background-color:rgb(106, 168, 168);
+}
+
+.logo {
+  width: 180px;
+  margin-top: 10px;
+}
+
+.header-kiri {
+  float: left;
+}
+
+.header-kanan {
+  float: right;
+  margin-top: 25px;
+}
+
+.header-kanan a {
+  padding-right: 25px;
+  color: white;
+  display: block;
+  float: left;
+
+}
+
+
+.title{
+  border-bottom:  2px solid #1b2429;
+  font-size: 30px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+
+}
+
+input{
+  width: 200px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 16px;
+  border: 1px solid #dee7ec;
+}
+
+.log-submit{
+  background-color: #dee7ec;
+  color: aliceblue;
+}
+
+.footer {
+   height:120px;
+   padding:40px 40px;
+   background-color:#2f5167;
+   color:#fff;
+ }
+ 
+ .footer-logo {
+   font-size:32px;
+   float:left;
+   margin-bottom: 5px;
+ }
+
+ .footer-logo li {
+   font-size:15px;
+   list-style: none;
+   
+ }
+
+  
+ .footer-list {
+   float:right;
+   font-size:32px;
+   margin-bottom: 5px;
+   
+ 
+ }
+ 
+ .footer-list li {
+   list-style: none;
+  font-size:15px;
+  text-align: left; 
+ }
+
+ .footer-center img {
+width : 250px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+ }
+
+
+/* footer {
+  background-color: #2f5167;
+  color:#fff;
+  height: 300px;
+  
+}
+
+
+.footer-left {
+  float: left;
+ 
+}
+
+.footer-left h6 {
+font-size: 20px;
+float: left;
+ 
+}
+
+
+.footer-right img {
+  width:200px;
+  float: right;
+  
+} */
+
+//coy warna buat button daftar warna apa bagusnya?
+// pink wkwkwk
+//cocok wkwkw
+//warna .... hijau keknya
+
+//img nya kok gak masuk ke area yg biru itu ya
+//mangat mangat
+//jgn lupa sambil ngopi 
+//kecilin tuh font nya bagian footer, sesuaikan
+//wonderful indonesianya susah di posisiin wkwk
+
+//wkwk ribet banget buka tab desain sama tab koding, harus butuh dua monitor nih biar cepet daripada buka tutup buka tutup  wkwk
